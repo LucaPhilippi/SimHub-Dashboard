@@ -1,5 +1,5 @@
 # SimHub-Dashboard
-Dashboard for Simhub. Only useable with my Discord Plugin.
+Dashboard for Simhub. To use all features my Discord plugin is required.
 
 
 # Attributes for Icons
