@@ -20,7 +20,7 @@ The dashboard will show an alert if one of the following properties has changed:
 
 ## Fuel Alert
 The fuel display has three different states which are active depending on the remaining fuel.
-** *next Stint* ** is showing the amount of fuel needed to run to the end of the race. The first number being the amount which should be added and the second number (the one in the brackets) being the amount of fuel which should be in the car after the pitstop.
+***next Stint*** is showing the amount of fuel needed to run to the end of the race. The first number being the amount of fuel which should be added at the next pitstop. The second number (the one in the brackets) shows the total amount of fuel which is needed to finish race. Both values are limited to the max amount of fuel the car can take.
 
 ### More than 5 laps of fuel remaining
 ![State 1](./resources/racing/Fuel%201.JPG)
