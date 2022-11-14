@@ -1,6 +1,3 @@
-# SimHub-Dashboard
-Dashboard for Simhub. To use all features my Discord plugin is required.
-
 # The Racing/Phone Dashboard
 
 ![Page 1](./resources/racing/Page%201.JPG)
