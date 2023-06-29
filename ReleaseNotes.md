@@ -1,9 +1,15 @@
-# Release v1.6
+# Release v1.7
 
-## Racing Dashboard v1.5
+## Racing Dashboard v1.6
 
- - Main Screen:
-   - Fixed gaps to car ahead and behind
+- All Screens besides Hotlap scree:
+  - ADDED: Indicators for flags in the top bar
+  - ADDED: Warning incase the engine or ignition is turned off
+  - FIXED: Brakebalance for several cars
+  - REWORK: Gearing, RPM and Speed visuals
+  - REWORK: Pitlimiter warning
+- NEW SCREEN:
+  - ADDED: New screen containing a basic leaderboard
 
 ## Spotting Dashboard v1.0
 
