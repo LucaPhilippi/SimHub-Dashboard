@@ -1,15 +1,14 @@
-# Release v1.7
+# Release v1.8
 
-## Racing Dashboard v1.6
+## Racing Dashboard v1.7
 
-- All Screens besides Hotlap scree:
-  - ADDED: Indicators for flags in the top bar
-  - ADDED: Warning incase the engine or ignition is turned off
-  - FIXED: Brakebalance for several cars
-  - REWORK: Gearing, RPM and Speed visuals
-  - REWORK: Pitlimiter warning
-- NEW SCREEN:
-  - ADDED: New screen containing a basic leaderboard
+- All Screens:
+  - ADDED: PitLimiter OFF warning when driving in pitlane
+- LEADERBOARD SCREEN:
+  - ADDED: Leaderboard indicators for lap ahead and lap behind
+- MAIN SCREEN:
+  - ADDED: Last lap time
+  - ADDED: Current lap time
 
 ## Spotting Dashboard v1.0
 
