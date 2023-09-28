@@ -1,16 +1,28 @@
-# Release v1.8
+# Release v1.9alpha (Racing Dashboard)
 
-## Racing Dashboard v1.7
+### Assetto Corsa Competizione
 
-- All Screens:
-  - ADDED: PitLimiter OFF warning when driving in pitlane
-- LEADERBOARD SCREEN:
-  - ADDED: Leaderboard indicators for lap ahead and lap behind
-- MAIN SCREEN:
-  - ADDED: Last lap time
-  - ADDED: Current lap time
+- REMOVED: Hotlap Page
+- All Pages:
 
-## Spotting Dashboard v1.0
+  - ADDED: Alerts for penalties
+  - ADDED: Penalty display
+  - ADDED: Temperature difference stp*
+  - REWORK: Repositioning of electronic states like wipers, lights and rainlights
+- TRACKMAP Page:
 
-Changes: (no changes made)
-At the moment the Spotting Dashboard is only working for players who are registered as the active driver on a car.
+  - ADDED: Highest speed archieved by the player stp* and overall in the session.
+- LEADERBOARD Page:
+
+  - FIXED: Leaderboard colors
+- MAIN Page:
+
+  - ADDED: Advanced tyre pressures with: avg tyre pressure of last lap and last three laps, tyre pressure loss stp* and suggestion for next tyre pressure based on avg pressure, pressure loss. Assumes the tyres pressures in the strategy mfd are also the current tyre pressures of the tyres in use.
+  - REWORK: Positioning of widgets and weather display.
+
+Advanced tyre pressures and temperature differences require the lph.UniversalPlugin!
+
+
+### iRacing
+
+Several widgets reworked and combined to a new page which is only showing up when iRacing is running.
