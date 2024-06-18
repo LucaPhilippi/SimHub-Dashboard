@@ -90,7 +90,6 @@ Trackstates:
 * **WET:** 	Wet
 * **FLD:** 	Flooded
 
-
 ## Top View
 
 The Top View shows basic session info like temperature, time and position. For ACC it has also a penalty display which is visible when the driver got a penalty. For a few cars in iRacing the remaining overtake time is shown when overtake is enabled.
@@ -101,25 +100,26 @@ The Top View shows basic session info like temperature, time and position. For A
 
 ![1704214300670](image/README/1704214300670.png "Top View with Overtake state")
 
-
 ### Flags
 
-The Top View contains a flag display showing the currently waived flag. For green flag nothing is displayed. This feature is currently only working with ACC.
+The Top View contains a flag display showing the currently waived flag. Yellow flag for single sectors are currently only working in ACC.
 
 ![1704214546999](image/README/1704214546999.png "Top View Flags")
 
 Supported flags:
 
 * **BLUE**
-* **YELLOW** (overall and single sectors)
+* **YELLOW** (overall and single sectors for ACC)
 * **WHITE**
+* **GREEN**
+* **ORANGE**
+* **CHECKERED**
 
 ### Version Warning
 
-The Magic Dashboard is relying on SimHub's features. If the minimum required version is not installed there will be a warning containing the minimum required version.
+A new release of the Magic Dashboard might rely on new verions of SimHub. Therefore a warning will be displayed showing the minimum required version of SimHub.
 
 ![1704215642315](image/README/1704215642315.png)
-
 
 ## Center View
 
@@ -146,7 +146,6 @@ When installed the Discord plugin is able to show the voice state of the Discord
 ![1704215121603](image/README/1704215121603.png "not in voice")
 
 ![1704215434875](image/README/1704215434875.png "disconnected")
-
 
 ## Pitlimiter Warning
 

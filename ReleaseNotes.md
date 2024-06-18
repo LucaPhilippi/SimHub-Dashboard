@@ -1,16 +1,17 @@
-# Release v2.0 (Racing Dashboard)
+# Release v2.0.1
 
 ### General
 
-* FIXED: Update times of data for better performance
-* FIXED: Non changing variables and functions will only be executed once now
+* FIXED: Lap summary duration increased
+* FIXED: Lap summary PB time showed last laptime
+* ADDED: Lap summary fuel last lap and remaining laps
+
+### Assetto Corsa Competizione
+
+* FIXED: Several bugs caused by last release
 
 ### iRacing
 
-* ADDED: new data
-  * Overtake time when enabled
-  * Battery Level for cars with ERS
-* FIXED: Weather forecast and track state
-* FIXED: Gaps and Delta to drivers around
-* FIXED: Leaderboard not changing to Gaps in a race session
-* FIXED: Lap summary not shown in a race session
+* ADDED: Flag support for green, yellow, blue, white, checkered and orange
+* ADDED: Throttle Shape and Launch Control instead of TC1 and TC2 if no Traction Control is available
+* FIXED: Air and track temperature difference not showing
